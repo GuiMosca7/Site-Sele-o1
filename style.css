@@ -49,3 +49,10 @@ div h2{
     display: flex;
     color: rgb(255, 255, 255);
 }
+
+h1{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/640px-Brazilian_Football_Confederation_logo.svg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 495px;
+}
